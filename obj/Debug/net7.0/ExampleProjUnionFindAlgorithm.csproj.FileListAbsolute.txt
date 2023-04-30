@@ -1,0 +1,15 @@
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\bin\Debug\net7.0\ExampleProjUnionFindAlgorithm.exe
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\bin\Debug\net7.0\ExampleProjUnionFindAlgorithm.deps.json
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\bin\Debug\net7.0\ExampleProjUnionFindAlgorithm.runtimeconfig.json
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\bin\Debug\net7.0\ExampleProjUnionFindAlgorithm.dll
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\bin\Debug\net7.0\ExampleProjUnionFindAlgorithm.pdb
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\obj\Debug\net7.0\ExampleProjUnionFindAlgorithm.csproj.AssemblyReference.cache
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\obj\Debug\net7.0\ExampleProjUnionFindAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\obj\Debug\net7.0\ExampleProjUnionFindAlgorithm.AssemblyInfoInputs.cache
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\obj\Debug\net7.0\ExampleProjUnionFindAlgorithm.AssemblyInfo.cs
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\obj\Debug\net7.0\ExampleProjUnionFindAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\obj\Debug\net7.0\ExampleProjUnionFindAlgorithm.dll
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\obj\Debug\net7.0\refint\ExampleProjUnionFindAlgorithm.dll
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\obj\Debug\net7.0\ExampleProjUnionFindAlgorithm.pdb
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\obj\Debug\net7.0\ExampleProjUnionFindAlgorithm.genruntimeconfig.cache
+C:\Users\bmich\Source\Repos\ExampleProjUnionFindAlgorithm\obj\Debug\net7.0\ref\ExampleProjUnionFindAlgorithm.dll
